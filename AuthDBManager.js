@@ -49,6 +49,9 @@ const AuthDBManager = {
 
         return this.dbConfig;
     },
+    perform:function(){
+        
+    },
     getBlankUser: function () {
         const schema = require('./user.schema');
         return schema;
