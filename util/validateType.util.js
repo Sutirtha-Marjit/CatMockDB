@@ -10,9 +10,10 @@ const validateType = (givenObject, schema) => {
     });
     
     if(nonStandardFields && nonStandardFields.length>0){
-       valid = false; 
-       return {nonStandardFields, valid};
+       valid = false;        
     }
+
+    return {nonStandardFields, valid};
 };
 
 module.exports = validateType;
