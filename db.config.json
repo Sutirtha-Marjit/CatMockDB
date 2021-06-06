@@ -1,0 +1,11 @@
+{
+  "DBName":"dbName",
+  "version":"0.0.1",
+  "location":"./userdb/db.json",
+  "structure":{
+    "meta":{},
+    "content":{
+      "users":[]
+    }
+  }
+}

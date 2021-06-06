@@ -1,0 +1,19 @@
+{
+  "name": "catmockdb",
+  "version": "1.0.0",
+  "description": "Temporary database using simple file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sutirtha-Marjit/CatMockDB.git"
+  },
+  "author": "sutirtha.social.marjit@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sutirtha-Marjit/CatMockDB/issues"
+  },
+  "homepage": "https://github.com/Sutirtha-Marjit/CatMockDB#readme"
+}
