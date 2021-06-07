@@ -1,2 +1,2 @@
-./db-data/*
+./AuthDBManager/db-data/*
 ./node_modules
