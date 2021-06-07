@@ -1,2 +1,2 @@
-./AuthDBManager/db-data/*
+./AuthDBManager/db-data/userdb/*.*
 ./node_modules
